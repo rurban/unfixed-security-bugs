@@ -79,3 +79,8 @@ Please submit a pull request if you have corrections or know about any other unf
 ## Windows 7 through 10
 
 * [Various methods of automatically bypassing UAC](http://www.kernelmode.info/forum/viewtopic.php?f=11&t=3643&start=130#p30022) (see "Unfixed methods in upcoming Windows 10 RS2 release")
+
+## perl
+
+* [Various unicode identifier bugs](http://perl11.org/blog/unicode-identifiers.html)
+* [Storable stack overflows](http://perl11.org/cperl/perl5260cdelta.html#Security) and other minor issues
